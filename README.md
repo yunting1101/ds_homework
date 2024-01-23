@@ -1,2 +1,2 @@
 # ds_homework
-These are three homework for the Data Structures course
+These are three homeworks for the Data Structures course
